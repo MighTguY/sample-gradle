@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.migthguy.TestMessageUtil" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-20T18:49:39" hostname="MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="testSalutationMessage" classname="io.github.migthguy.TestMessageUtil" time="0.004"/>
+  <testcase name="testPrintMessage" classname="io.github.migthguy.TestMessageUtil" time="0.0"/>
+  <system-out><![CDATA[Inside testSalutationMessage()
+Hi!Robert
+Inside testPrintMessage()
+Robert
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
